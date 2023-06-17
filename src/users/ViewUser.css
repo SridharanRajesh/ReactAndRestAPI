@@ -1,0 +1,35 @@
+.container {
+    margin-top: 20px;
+  }
+  
+  .border {
+    border: 1px solid #ddd;
+  }
+  
+  .card {
+    margin-top: 20px;
+    opacity:0.5;
+    
+  }
+  
+  .card-header {
+    font-weight: bold;
+    
+  }
+  
+  .list-group-item {
+    display: flex;
+    align-items: center;
+    border: none;
+    
+  }
+  
+  .list-group-item b {
+    margin-right: 5px;
+    
+  }
+  
+  .btn-primary {
+    margin-top: 10px;
+  }
+  
